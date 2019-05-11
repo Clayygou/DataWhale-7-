@@ -1,2 +1,2 @@
-# DataWhale-7-
+# DataWhale-7-datamining
 数据挖掘
